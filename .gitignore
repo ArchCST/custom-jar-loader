@@ -143,4 +143,7 @@ buildNumber.properties
 **/mvnw
 **/mvnw.*
 
+# sample-jar-dir
+jar-dir/
+
 # End of https://www.toptal.com/developers/gitignore/api/intellij,maven,java
