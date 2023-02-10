@@ -143,6 +143,9 @@ buildNumber.properties
 **/mvnw
 **/mvnw.*
 
+# mac
+**/.DS_Store
+
 # sample-jar-dir
 jar-dir/
 
